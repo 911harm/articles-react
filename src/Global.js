@@ -1,1 +1,1 @@
-export const urlApi="http://localhost:9300/api/"
+export const urlApi="https://app-rest-articles.herokuapp.com/api/"
